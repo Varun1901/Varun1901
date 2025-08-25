@@ -29,7 +29,7 @@ I’m passionate about building intelligent systems, solving real-world problems
 
 ## 📊 GitHub Stats
 
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varun1901&show_icons=true&theme=tokyonight)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun1901&layout=compact&theme=tokyonight)  
 
 ---
